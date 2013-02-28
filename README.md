@@ -41,3 +41,7 @@ c:\ruby\ruby TwitterMail.rb
 
 上記コマンドをタスクスケジューラに登録し、10分毎に起動させる
 
+##Author
+
+Tsuyoshi Suzuki
+<u93b124@gmail.com>
